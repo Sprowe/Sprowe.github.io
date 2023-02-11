@@ -53,7 +53,7 @@
 						<!-- One -->
 							<section id="about" class="wrapper spotlight style1">
 								<div class="inner">
-									<a class="image"><img src="images/MyFace2.jpg" alt="" /></a>
+									<a class="image"><img src="Images/MyFace1.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">About</h2>
 										<p>I am a college student currently pursuing a bachelor's and masters in
@@ -80,7 +80,7 @@
 						<!-- Two -->
 							<section id="education" class="wrapper alt spotlight style2">
 								<div class="inner">
-									<a href="https://www.wpi.edu/" target="_blank" class="image"><img src="images/WPI_Seal_FulClr.jpg" alt="" /></a>
+									<a href="https://www.wpi.edu/" target="_blank" class="image"><img src="Images/WPI_Seal_FulClr.jpg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">Education</h2>
 										<h3>Bachelor's and Master's in Computer Science, Worcester Polytechnic Institute (Class of 2023)</h3>
@@ -128,7 +128,7 @@
 									<!-- TODO Find relevant images for projects or remove placeholders -->
 									<section class="features">
 										<article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="Images/pic04.jpg" alt="" /></a>
 											<h3 class="major">Project Mason</h3>
 											<p>I acted as the assistant lead software engineer and assistant lead
 												project manager on a ten-person team in a class competition to create
@@ -137,7 +137,7 @@
 											<a href="https://github.com/Sprowe/ProjectMason" target="_blank" class="special">Code Link</a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="Images/pic06.jpg" alt="" /></a>
 											<h3 class="major">Yelp Restaurant Popularity Prediction</h3>
 											<p>The final project for the WPI course CS525, Natural Language Processing.
 											Using the Yelp Dataset, we leveraged several data pre-processing
@@ -148,7 +148,7 @@
 											<a href="https://github.com/Diz138/YelpReviews" class="special">Code Link</a>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<a href="#" class="image"><img src="Images/pic05.jpg" alt="" /></a>
 											<h3 class="major">See-Through VR</h3>
 											<p>My Major Qualifying Project at WPI. I worked in a team of 6 to create an
 											integrated set of programs to enable remote control and vision of a
@@ -159,7 +159,7 @@
 											<a href="https://github.com/cake-lab/2022-mqp-seethrough" class="special">Code Link</a>
 										</article>
 										<article>
-											<a href="https://github.com/RVRX/Gompei-Clicker" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<a href="https://github.com/RVRX/Gompei-Clicker" class="image"><img src="Images/pic07.jpg" alt="" /></a>
 											<h3 class="major">Gompei Clicker</h3>
 											<p>A WPI-themed Cookie Clicker clone made in Kotlin as the final project
 											for the WPI course CS 4518, Mobile and Ubiquitous Programming.</p>
